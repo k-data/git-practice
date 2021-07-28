@@ -1,2 +1,0 @@
-newfile.txt
-newfile作成
