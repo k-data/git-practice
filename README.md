@@ -1,0 +1,4 @@
+README.md
+このリポジトリはgit講座用です。
+ローカルリポで変更
+rebase-practiceブランチで変更
