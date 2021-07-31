@@ -1,2 +1,2 @@
 another_file.txt
-新しいファイルを作成（メインブランチ用）
+pull時のrebase用
